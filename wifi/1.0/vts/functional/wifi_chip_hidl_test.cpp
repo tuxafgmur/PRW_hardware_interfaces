@@ -46,7 +46,7 @@ extern WifiHidlEnvironment* gEnv;
 
 namespace {
 constexpr WifiDebugRingBufferVerboseLevel kDebugRingBufferVerboseLvl =
-    WifiDebugRingBufferVerboseLevel::VERBOSE;
+    WifiDebugRingBufferVerboseLevel::NONE;
 constexpr uint32_t kDebugRingBufferMaxInterval = 5;
 constexpr uint32_t kDebugRingBufferMaxDataSize = 1024;
 

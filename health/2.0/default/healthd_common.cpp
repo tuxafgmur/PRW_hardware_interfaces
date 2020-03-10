@@ -15,7 +15,7 @@
  */
 
 #define LOG_TAG "android.hardware.health@2.0-impl"
-#define KLOG_LEVEL 6
+#define KLOG_LEVEL 3
 
 #include <healthd/BatteryMonitor.h>
 #include <healthd/healthd.h>

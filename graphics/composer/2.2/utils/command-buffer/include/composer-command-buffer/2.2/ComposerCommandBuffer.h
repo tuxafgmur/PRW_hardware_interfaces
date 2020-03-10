@@ -21,7 +21,7 @@
 #endif
 
 #undef LOG_NDEBUG
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include <algorithm>
 #include <limits>

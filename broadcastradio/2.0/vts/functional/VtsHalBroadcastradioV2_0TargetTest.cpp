@@ -15,8 +15,8 @@
  */
 
 #define LOG_TAG "BcRadio.vts"
-#define LOG_NDEBUG 0
-#define EGMOCK_VERBOSE 1
+//#define LOG_NDEBUG 0
+#define EGMOCK_VERBOSE 0
 
 #include <VtsHalHidlTargetTestBase.h>
 #include <android-base/logging.h>

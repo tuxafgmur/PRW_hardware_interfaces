@@ -15,7 +15,7 @@
  */
 
 #define LOG_TAG "BroadcastRadioDefault.tuner"
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include "Tuner.h"
 #include "BroadcastRadio.h"

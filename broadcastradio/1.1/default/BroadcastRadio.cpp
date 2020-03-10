@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 #define LOG_TAG "BroadcastRadioDefault.module"
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include "BroadcastRadio.h"
 

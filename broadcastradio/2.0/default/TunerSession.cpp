@@ -15,7 +15,7 @@
  */
 
 #define LOG_TAG "BcRadioDef.tuner"
-#define LOG_NDEBUG 0
+//#define LOG_NDEBUG 0
 
 #include "TunerSession.h"
 
